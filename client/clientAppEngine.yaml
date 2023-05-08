@@ -1,5 +1,5 @@
 runtime: nodejs14
-service: client
+service: default
 
 handlers:
   - url: /
