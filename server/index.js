@@ -9,8 +9,8 @@ let dbConfig = {
   /* Notice! These are here for demo purposes. DO NOT COMMIT YOUR INFO to version control*/
   client: "mysql",
   connection: {
-    user: "testuser",
-    password: "testuserpwd1",
+    user: "root",
+    password: "",
     database: "gae-demo-db",
   },
 };
